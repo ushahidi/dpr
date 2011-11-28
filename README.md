@@ -1,5 +1,11 @@
 # Ushahidi Debian GNU/Linux Privacy Remix
 
+## Description
+
+* Debian remix focused on privacy and security
+* Uses aufs + tmpfs to ensure no changes to the filesystem persists after reboot
+* Distributed in [Open Virtualisation Format](http://www.dmtf.org/standards/ovf)
+
 ## Application Software
 
 * [Chromium](http://www.chromium.org/)
