@@ -34,3 +34,10 @@
 Start with a fresh install of Debian 6.0 (Squeeze) and execute the following:
 
     `wget -qO- --no-check-certificate https://raw.github.com/ushahidi/dpr/master/install.sh | bash`
+
+## Project Files
+
+* `install.sh` The installation shell script
+* `menu.xml` The Openbox right-click menu configuration
+* `rootaufs.sh` The script to mount the root file system using aufs+tmpfs
+* `tint2rc` The tint2 (panel / taskbar) configuration
