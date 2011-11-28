@@ -40,6 +40,11 @@ Start with a fresh install of Debian 6.0 (Squeeze) and execute the following:
 ## Filesystem Diagram
 
 ![Filesystem Diagram](https://github.com/ushahidi/dpr/raw/master/doc/filesystem.png)
+
+## Execution Diagram
+
+![Execution Diagram](https://github.com/ushahidi/dpr/raw/master/doc/execution.png)
+
 ## Project Files
 
 * `install.sh` The installation shell script
