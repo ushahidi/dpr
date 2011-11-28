@@ -9,11 +9,13 @@
 ## Application Software
 
 * [Chromium](http://www.chromium.org/)
-* [Adobe Flash Player](http://www.adobe.com/products/flashplayer.html)
+* [Thunderbird](http://www.mozilla.org/thunderbird/)
+* [Flash Player](http://www.adobe.com/products/flashplayer.html)
 * [Skype](http://www.skype.com/)
 * [Tor](https://www.torproject.org/)
 * [VLC](http://www.videolan.org/vlc/)
 * [XChat](http://xchat.org/)
+* [XFCE4 Terminal](http://www.xfce.org/projects/terminal)
 
 ## Supporting Software
 
@@ -32,3 +34,10 @@
 Start with a fresh install of Debian 6.0 (Squeeze) and execute the following:
 
     `wget -qO- --no-check-certificate https://raw.github.com/ushahidi/dpr/master/install.sh | bash`
+
+## Project Files
+
+* `install.sh` The installation shell script
+* `menu.xml` The Openbox right-click menu configuration
+* `rootaufs.sh` The script to mount the root file system using aufs+tmpfs
+* `tint2rc` The tint2 (panel / taskbar) configuration

@@ -25,8 +25,5 @@
   <item label="XFCE4 Terminal">
    <action name="Execute"><execute>xfce4-terminal --maximize</execute></action>
   </item>
-  <item label="Zenmap">
-   <action name="Execute"><execute>gksu zenmap</execute></action>
-  </item>
  </menu>
 </openbox_menu>
