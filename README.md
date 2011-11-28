@@ -23,7 +23,7 @@
 * [Debian](http://www.debian.org/)
 * [Openbox](http://openbox.org/)
 * [Tint2](http://code.google.com/p/tint2/)
-* [X.org](http://www.x.org/)
+* [X](http://www.x.org/)
 
 ## Login Credentials
 
