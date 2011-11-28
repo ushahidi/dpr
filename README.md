@@ -35,6 +35,9 @@ Start with a fresh install of Debian 6.0 (Squeeze) and execute the following:
 
     `wget -qO- --no-check-certificate https://raw.github.com/ushahidi/dpr/master/install.sh | bash`
 
+## Filesystem Diagram
+
+![Filesystem Diagram](https://github.com/ushahidi/dpr/raw/master/doc/filesystem.png)
 ## Project Files
 
 * `install.sh` The installation shell script
