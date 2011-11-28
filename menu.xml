@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbox_menu xmlns="http://openbox.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openbox.org/ file:///usr/share/openbox/menu.xsd">
+ <menu id="root-menu" label="HyperVenster">
+  <item label="Chromium">
+   <action name="Execute"><execute>chromium-browser -start-maximized</execute></action>
+  </item>
+  <item label="Chromium (SOCKS5 on 8080)">
+   <action name="Execute"><execute>chromium-browser -start-maximized --proxy-server="socks5://127.0.0.1:8080"</execute></action>
+  </item>
+  <item label="Chromium (Tor)">
+   <action name="Execute"><execute>chromium-browser -start-maximized --proxy-server="socks5://127.0.0.1:9050"</execute></action>
+  </item>
+  <item label="Skype">
+   <action name="Execute"><execute>skype</execute></action>
+  </item>
+  <item label="Thunderbird">
+   <action name="Execute"><execute>/thunderbird/thunderbird</execute></action>
+  </item>
+  <item label="VLC">
+   <action name="Execute"><execute>vlc</execute></action>
+  </item>
+  <item label="XChat">
+   <action name="Execute"><execute>xchat</execute></action>
+  </item>
+  <item label="XFCE4 Terminal">
+   <action name="Execute"><execute>xfce4-terminal --maximize</execute></action>
+  </item>
+  <item label="Zenmap">
+   <action name="Execute"><execute>gksu zenmap</execute></action>
+  </item>
+ </menu>
+</openbox_menu>
