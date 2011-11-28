@@ -25,4 +25,4 @@
 
 * Start with a (preferably fresh) install of Debian 6.0 (Squeeze).
 * Run the following command in `bash`:  
-`wget -qO- --no-check-certificate https://raw.github.com/charlvanniekerk/hypervenster/master/install.sh | bash`
+`wget -qO- --no-check-certificate https://raw.github.com/ushahidi/dpr/master/install.sh | bash`
