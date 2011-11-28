@@ -9,7 +9,8 @@
 ## Application Software
 
 * [Chromium](http://www.chromium.org/)
-* [Adobe Flash Player](http://www.adobe.com/products/flashplayer.html)
+* [Thunderbird](http://www.mozilla.org/thunderbird/)
+* [Flash Player](http://www.adobe.com/products/flashplayer.html)
 * [Skype](http://www.skype.com/)
 * [Tor](https://www.torproject.org/)
 * [VLC](http://www.videolan.org/vlc/)
