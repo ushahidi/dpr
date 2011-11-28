@@ -15,6 +15,7 @@
 * [Tor](https://www.torproject.org/)
 * [VLC](http://www.videolan.org/vlc/)
 * [XChat](http://xchat.org/)
+* [XFCE4 Terminal](http://www.xfce.org/projects/terminal)
 
 ## Supporting Software
 
