@@ -19,6 +19,7 @@
 
 ## Supporting Software
 
+* [aufs](http://aufs.sourceforge.net/)
 * [Debian](http://www.debian.org/)
 * [Openbox](http://openbox.org/)
 * [Tint2](http://code.google.com/p/tint2/)
