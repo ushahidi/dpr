@@ -2,7 +2,7 @@
 
 ## Software
 
-* Chromium
+* [Chromium](http://www.chromium.org/)
 * Flash
 * Openbox
 * Skype
