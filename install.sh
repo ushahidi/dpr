@@ -8,7 +8,7 @@ apt-get update
 export DEBIAN_FRONTEND=noninteractive
 
 # Install packages
-apt-get install -y xorg openbox alsa aufs-tools tint2 chromium-browser flashplugin-nonfree tor tor-geoipdb xfce4-terminal vlc xchat miredo vidalia gksu bzip2 bcrypt
+apt-get install -y xorg openbox alsa aufs-tools tint2 chromium-browser flashplugin-nonfree tor tor-geoipdb xfce4-terminal vlc xchat vidalia
 
 # Install Thunderbird
 wget -O /tmp/thunderbird.tar.bz2 http://www.mirrorservice.org/sites/releases.mozilla.org/pub/mozilla.org/thunderbird/releases/8.0/linux-i686/en-US/thunderbird-8.0.tar.bz2
