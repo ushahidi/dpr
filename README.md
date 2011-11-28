@@ -24,5 +24,5 @@
 ## Installation
 
 * Start with a (preferably fresh) install of Debian 6.0 (Squeeze).
-* Run the following command in `bash`:  
+* Execute the following:  
 `wget -qO- --no-check-certificate https://raw.github.com/ushahidi/dpr/master/install.sh | bash`
