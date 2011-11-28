@@ -15,8 +15,14 @@
 * [Openbox](http://openbox.org/)
 * [Tint2](http://code.google.com/p/tint2/)
 
-## User Credentials
+## Login Credentials
 
 * User Login: `user`
 * User Password: `user`
 * Root Password: `root`
+
+## Installation
+
+* Start with a (preferably fresh) install of Debian 6.0 (Squeeze).
+* Run the following command in `bash`: 
+`wget -qO- --no-check-certificate https://raw.github.com/charlvanniekerk/hypervenster/master/install.sh | bash`
