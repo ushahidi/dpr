@@ -6,6 +6,10 @@
 * Uses aufs + tmpfs to ensure no changes to the filesystem persists after reboot
 * Distributed in [Open Virtualisation Format](http://www.dmtf.org/standards/ovf)
 
+## Downloads
+
+* [DPR-x86_64.ova](http://sourceforge.net/projects/ushahidi/files/DPR-x86_64.ova/download)
+
 ## Application Software
 
 * [Chromium](http://www.chromium.org/)
