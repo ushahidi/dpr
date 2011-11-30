@@ -64,4 +64,4 @@ Start with a fresh install of Debian 6.0 (Squeeze) and execute the following:
 
 ## See Also
 
-* [Ushahidi](http://www.ushahidi.com/)
+* [Ushahidi.com](http://www.ushahidi.com/)
