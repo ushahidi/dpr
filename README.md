@@ -41,7 +41,7 @@
 
 Start with a fresh install of Debian 6.0 (Squeeze) and execute the following:
 
-    `wget -qO- --no-check-certificate https://raw.github.com/ushahidi/dpr/master/install.sh | bash`
+    wget -qO- --no-check-certificate https://raw.github.com/ushahidi/dpr/master/install.sh | bash
 
 ## Filesystem Diagram
 
@@ -57,3 +57,11 @@ Start with a fresh install of Debian 6.0 (Squeeze) and execute the following:
 * `menu.xml` The Openbox right-click menu configuration
 * `rootaufs.sh` The script to mount the root file system using aufs+tmpfs
 * `tint2rc` The tint2 (panel / taskbar) configuration
+
+## License
+
+* [GNU General Public License](http://www.gnu.org/copyleft/gpl.html)
+
+## See Also
+
+* [Ushahidi](http://www.ushahidi.com/)
