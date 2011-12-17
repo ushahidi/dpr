@@ -13,6 +13,9 @@
   <item label="Skype">
    <action name="Execute"><execute>skype</execute></action>
   </item>
+  <item label="Thunar">
+   <action name="Execute"><execute>thunar</execute></action>
+  </item>
   <item label="Thunderbird">
    <action name="Execute"><execute>/thunderbird/thunderbird</execute></action>
   </item>
