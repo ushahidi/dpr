@@ -15,20 +15,23 @@
 ## Application Software
 
 * [Chromium](http://www.chromium.org/)
-* [Thunderbird](http://www.mozilla.org/thunderbird/)
-* [Flash Player](http://www.adobe.com/products/flashplayer.html)
 * [Skype](http://www.skype.com/)
-* [Tor](https://www.torproject.org/)
+* [Terminal](http://www.xfce.org/projects/terminal)
+* [Thunar](http://thunar.xfce.org/)
+* [Thunderbird](http://www.mozilla.org/thunderbird/)
+* [Vidalia](https://www.torproject.org/projects/vidalia)
 * [VLC](http://www.videolan.org/vlc/)
 * [XChat](http://xchat.org/)
-* [XFCE4 Terminal](http://www.xfce.org/projects/terminal)
 
 ## Supporting Software
 
 * [aufs](http://aufs.sourceforge.net/)
 * [Debian](http://www.debian.org/)
+* [Flash Player](http://www.adobe.com/products/flashplayer.html)
+* [Miredo](http://www.remlab.net/miredo/)
 * [Openbox](http://openbox.org/)
 * [Tint2](http://code.google.com/p/tint2/)
+* [Tor](https://www.torproject.org/)
 * [X](http://www.x.org/)
 
 ## Login Credentials
