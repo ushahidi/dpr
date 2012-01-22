@@ -5,12 +5,7 @@
 * Debian remix focused on protecting your privacy
 * Uses a minimalist desktop environment based on Openbox for memory conservation
 * Uses aufs + tmpfs to ensure no changes to the filesystem persists after reboot
-* Distributed in [Open Virtualisation Format](http://www.dmtf.org/standards/ovf)
 * Ideal for running inside of [VirtualBox](https://www.virtualbox.org/)
-
-## Downloads
-
-* [DPR-x86_64.ova](http://sourceforge.net/projects/ushahidi/files/DPR-x86_64.ova/download)
 
 ## Application Software
 
